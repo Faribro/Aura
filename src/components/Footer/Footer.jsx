@@ -15,13 +15,13 @@ const Footer = () => {
         <div className="text">Choose from our wide variety of fragrances</div>
 
         <div className="social">
-          <a href="https://github.com/himadri2110" target="_blank">
+          <a href="https://github.com/Faribro" target="_blank">
             <i className="fa fa-github"></i>
           </a>
-          <a href="https://twitter.com/himadri2110" target="_blank">
+          <a href="https://twitter.com/" target="_blank">
             <i className="fa fa-twitter"></i>
           </a>
-          <a href="https://linkedin.com/in/himadri2110" target="_blank">
+          <a href="https://www.linkedin.com/in/farid-sayyed/" target="_blank">
             <i className="fa fa-linkedin"></i>
           </a>
         </div>

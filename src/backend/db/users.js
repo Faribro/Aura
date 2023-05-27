@@ -18,7 +18,7 @@ export const users = [
     address: [
       {
         _id: uuid(),
-        name: "Himadri Shah",
+        name: "Rizwan Shah",
         street: "5, Indira Nagar",
         city: "Mumbai",
         state: "Maharashtra",
